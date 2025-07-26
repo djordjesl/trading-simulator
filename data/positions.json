@@ -1,0 +1,104 @@
+{
+  "cash": 890.0,
+  "positions": {
+    "NFLX": {
+      "ticker": "NFLX",
+      "position_type": "long",
+      "entry_price": 1180.489990234375,
+      "quantity": 0.008471058698273753,
+      "entry_date": "2025-07-26T23:44:19.459655",
+      "stop_loss": 1121.465490722656,
+      "take_profit": 1215.9046899414063
+    },
+    "INTC": {
+      "ticker": "INTC",
+      "position_type": "long",
+      "entry_price": 20.700000762939453,
+      "quantity": 0.4830917696343106,
+      "entry_date": "2025-07-26T23:44:19.586763",
+      "stop_loss": 19.66500072479248,
+      "take_profit": 21.321000785827636
+    },
+    "TXN": {
+      "ticker": "TXN",
+      "position_type": "long",
+      "entry_price": 184.99000549316406,
+      "quantity": 0.054056974447571064,
+      "entry_date": "2025-07-26T23:44:19.756880",
+      "stop_loss": 175.74050521850586,
+      "take_profit": 190.539705657959
+    },
+    "IBM": {
+      "ticker": "IBM",
+      "position_type": "long",
+      "entry_price": 259.7200012207031,
+      "quantity": 0.03850300305328532,
+      "entry_date": "2025-07-26T23:44:19.927396",
+      "stop_loss": 246.73400115966797,
+      "take_profit": 267.51160125732423
+    },
+    "HON": {
+      "ticker": "HON",
+      "position_type": "long",
+      "entry_price": 224.24000549316406,
+      "quantity": 0.04459507561109496,
+      "entry_date": "2025-07-26T23:44:20.114287",
+      "stop_loss": 213.02800521850585,
+      "take_profit": 230.967205657959
+    },
+    "LMT": {
+      "ticker": "LMT",
+      "position_type": "long",
+      "entry_price": 421.1700134277344,
+      "quantity": 0.023743380775411806,
+      "entry_date": "2025-07-26T23:44:20.301771",
+      "stop_loss": 400.1115127563476,
+      "take_profit": 433.8051138305664
+    },
+    "CHTR": {
+      "ticker": "CHTR",
+      "position_type": "long",
+      "entry_price": 309.75,
+      "quantity": 0.03228410008071025,
+      "entry_date": "2025-07-26T23:44:20.392107",
+      "stop_loss": 294.2625,
+      "take_profit": 319.0425
+    },
+    "DOW": {
+      "ticker": "DOW",
+      "position_type": "long",
+      "entry_price": 25.510000228881836,
+      "quantity": 0.3920031325079421,
+      "entry_date": "2025-07-26T23:44:20.492246",
+      "stop_loss": 24.23450021743774,
+      "take_profit": 26.275300235748293
+    },
+    "TMO": {
+      "ticker": "TMO",
+      "position_type": "short",
+      "entry_price": 478.32000732421875,
+      "quantity": 0.020906505784571372,
+      "entry_date": "2025-07-26T23:44:20.651323",
+      "stop_loss": 502.2360076904297,
+      "take_profit": 463.97040710449215
+    },
+    "HSY": {
+      "ticker": "HSY",
+      "position_type": "short",
+      "entry_price": 187.1199951171875,
+      "quantity": 0.05344164312176958,
+      "entry_date": "2025-07-26T23:44:20.806657",
+      "stop_loss": 196.4759948730469,
+      "take_profit": 181.50639526367186
+    },
+    "NEM": {
+      "ticker": "NEM",
+      "position_type": "short",
+      "entry_price": 65.75,
+      "quantity": 0.1520912547528517,
+      "entry_date": "2025-07-26T23:44:20.958627",
+      "stop_loss": 69.03750000000001,
+      "take_profit": 63.777499999999996
+    }
+  }
+}
